@@ -4,8 +4,8 @@
 # 👋 Hello, I'm Aradna
 
 I am a **Frontend Developer** delivering **modern, responsive, and interactive web solutions**.  
-I help individuals and businesses bring their ideas to life online with clean, efficient, and user-friendly interfaces.
-
+I help individuals and businesses bring ideas to life with modern, responsive, and user-friendly web interfaces.
+Exploring ML & AI to create intelligent, user-focused web experiences.
 ---
 
 ## 🚀 Services I Offer
@@ -29,6 +29,7 @@ I help individuals and businesses bring their ideas to life online with clean, e
 
 - Next.js  
 - Advanced React Patterns & State Management
+- Building AI-powered web features to enhance user experience  
 ---
 
 ## 📫 Get in Touch
