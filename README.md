@@ -2,10 +2,9 @@
 
 
 # 👋 Hello, I'm Aradna
+I build clean, responsive web interfaces with React, JavaScript, and Tailwind CSS. Currently exploring Machine Learning to create smarter, data-driven applications.
 
-I help individuals and businesses transform ideas into clean, efficient, and user-friendly web interfaces. With expertise in React, JavaScript, and Tailwind CSS, I design modern, responsive solutions that deliver seamless digital experiences. Alongside frontend development, I am expanding into Machine Learning, aiming to create smarter applications with intelligent, data-driven features.
 ---
-
 ## 🚀 Services I Offer
 
 - **Web Development:** Build responsive websites and web apps with React, Tailwind CSS, and JavaScript.  
