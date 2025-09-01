@@ -46,12 +46,16 @@ I build clean, responsive web interfaces with React, JavaScript, and Tailwind CS
 
 🔹 SidFlix
  – A Netflix-like streaming app built with React & Tailwind CSS
+ 
 🔹 CryptoTracker
  – Real-time cryptocurrency tracker using public APIs
+ 
 🔹 Weather App
  – Stylish weather forecast app with live API data
+ 
 🔹 News Website
  – Responsive news app fetching live headlines
+ 
 🔹 Language Translator
  – Multilingual translator with API integration
 
