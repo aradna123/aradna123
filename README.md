@@ -4,7 +4,21 @@
 # 👋 Hello, I'm Aradna
 I build clean, responsive web interfaces with React, JavaScript, and Tailwind CSS. Currently exploring Machine Learning to create smarter, data-driven applications.
 
+
+# 🏆 Certifications
+
+* **Software Architecture** – *Simplilearn, Jan 2025*
+  [https://www.simplilearn.com/software-architecture-fundamentals-skillup](#)
+
+* **IT INDUSTRY READINESS Program(Mern Stack** – *SukkurIBA, 2024*
+  [https://verifybootcamp.netlify.app/certificate/4510249262968](#)
+
+* **Agile Project Mangement** – *Coursera, 2024*
+  [https://www.coursera.org/learn/agile-project-management/home/module/1](#)
+
 ---
+
+
 ## 🚀 Services I Offer
 
 - **Web Development:** Build responsive websites and web apps with React, Tailwind CSS, and JavaScript.  
