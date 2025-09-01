@@ -69,7 +69,6 @@ Building modern, responsive, and visually appealing web applications with React,
 
 💼 LinkedIn: linkedin.com/in/aradhna-nankani328
 
-🌐 GitHub: github.com/aradna123
 
 ✨ “I don’t just build websites; I craft experiences that users love.”
 
