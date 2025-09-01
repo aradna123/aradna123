@@ -1,8 +1,9 @@
 👤 About Me
 
-# 👋 Hello, I'm Aradna Nankani
-I build clean, responsive web interfaces with React, JavaScript, and Tailwind CSS. Currently exploring Machine Learning to create smarter, data-driven applications.
+👩‍💻 Aradna Nankani
 
+Software Engineer | Frontend Developer | UI/UX Enthusiast
+Building modern, responsive, and visually appealing web applications with React, Tailwind CSS, and JavaScript.
 
 # 🏆 Certifications
 
@@ -58,6 +59,7 @@ I build clean, responsive web interfaces with React, JavaScript, and Tailwind CS
  
 🔹 Language Translator
  – Multilingual translator with API integration
+ 
 
 📫 Let’s Connect
 
