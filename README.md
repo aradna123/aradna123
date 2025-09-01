@@ -47,5 +47,7 @@ I build clean, responsive web interfaces with React, JavaScript, and Tailwind CS
 - Email: [aronankani328@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/aradhna-nankani328/]
 ---
+⚡ Fun fact: I love turning creative ideas into interactive web apps that solve real-world problems.
+
 
 
