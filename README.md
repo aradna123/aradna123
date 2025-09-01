@@ -1,7 +1,6 @@
-# Aradna-Nankani
+👤 About Me
 
-
-# 👋 Hello, I'm Aradna
+# 👋 Hello, I'm Aradna Nankani
 I build clean, responsive web interfaces with React, JavaScript, and Tailwind CSS. Currently exploring Machine Learning to create smarter, data-driven applications.
 
 
