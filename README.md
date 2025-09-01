@@ -42,12 +42,28 @@ I build clean, responsive web interfaces with React, JavaScript, and Tailwind CS
 - Building AI-powered web features to enhance user experience  
 ---
 
-## 📫 Get in Touch
+📂 Featured Projects
 
-- Email: [aronankani328@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/aradhna-nankani328/]
----
-⚡ Fun fact: I love turning creative ideas into interactive web apps that solve real-world problems.
+🔹 SidFlix
+ – A Netflix-like streaming app built with React & Tailwind CSS
+🔹 CryptoTracker
+ – Real-time cryptocurrency tracker using public APIs
+🔹 Weather App
+ – Stylish weather forecast app with live API data
+🔹 News Website
+ – Responsive news app fetching live headlines
+🔹 Language Translator
+ – Multilingual translator with API integration
+
+📫 Let’s Connect
+
+📧 Email: aronankani328@gmail.com
+
+💼 LinkedIn: linkedin.com/in/aradhna-nankani328
+
+🌐 GitHub: github.com/aradna123
+
+✨ “I don’t just build websites; I craft experiences that users love.”
 
 
 
