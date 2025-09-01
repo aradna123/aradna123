@@ -1,9 +1,9 @@
 👤 About Me
 
 👩‍💻 Aradna Nankani
-
 Software Engineer | Frontend Developer | UI/UX Enthusiast
 Building modern, responsive, and visually appealing web applications with React, Tailwind CSS, and JavaScript.
+
 
 # 🏆 Certifications
 
@@ -59,6 +59,7 @@ Building modern, responsive, and visually appealing web applications with React,
  
 🔹 Language Translator
  – Multilingual translator with API integration
+
  
 
 📫 Let’s Connect
