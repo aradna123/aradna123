@@ -3,7 +3,7 @@
 👩‍💻 Aradna Nankani
 
 Software Engineer | Frontend Developer | UI/UX Enthusiast
-Building modern, responsive, and visually appealing web applications with React, Tailwind CSS, and JavaScript.
+Building modern, responsive, and visually appealing web applications with React, Nodejs, Tailwind CSS, and JavaScript.
 
 
 ## 🚀 Services I Offer
