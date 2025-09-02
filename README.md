@@ -6,20 +6,6 @@ Software Engineer | Frontend Developer | UI/UX Enthusiast
 Building modern, responsive, and visually appealing web applications with React, Tailwind CSS, and JavaScript.
 
 
-# 🏆 Certifications
-
-* **Software Architecture** – *Simplilearn, Jan 2025*
-  [https://www.simplilearn.com/software-architecture-fundamentals-skillup](#)
-
-* **IT INDUSTRY READINESS Program(Mern Stack** – *SukkurIBA, 2024*
-  [https://verifybootcamp.netlify.app/certificate/4510249262968](#)
-
-* **Agile Project Mangement** – *Coursera, 2024*
-  [https://www.coursera.org/learn/agile-project-management/home/module/1](#)
-
----
-
-
 ## 🚀 Services I Offer
 
 - **Web Development:** Build responsive websites and web apps with React, Tailwind CSS, and JavaScript.  
@@ -44,7 +30,18 @@ Building modern, responsive, and visually appealing web applications with React,
 - Building AI-powered web features to enhance user experience  
 ---
 
+ # 🏆 Certifications
 
+* **Software Architecture** – *Simplilearn, Jan 2025*
+  [https://www.simplilearn.com/software-architecture-fundamentals-skillup](#)
+
+* **IT INDUSTRY READINESS Program(Mern Stack** – *SukkurIBA, 2024*
+  [https://verifybootcamp.netlify.app/certificate/4510249262968](#)
+
+* **Agile Project Mangement** – *Coursera, 2024*
+  [https://www.coursera.org/learn/agile-project-management/home/module/1](#)
+
+---
 
 📫 Let’s Connect
 
