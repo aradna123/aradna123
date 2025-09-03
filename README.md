@@ -51,7 +51,7 @@ Currently exploring AI and Machine Learning to develop intelligent, user-focused
 💼 LinkedIn: linkedin.com/in/aradhna-nankani328
 
 
-✨ “I don’t just build websites; I craft experiences that users love.”
+"Stay hungry, stay foolish." – Steve Jobs
 
 
 
