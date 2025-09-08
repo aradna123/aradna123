@@ -16,13 +16,34 @@ Currently exploring AI and Machine Learning to develop intelligent, user-focused
 
 ---
 
-## 💻 Technical Skills
+## 💻 **Technical Skills**
 
-**Frontend:** HTML5, CSS3, JavaScript, React, Tailwind CSS, Bootstrap  
-**Tools & Platforms:** Git, GitHub, VS Code, Figma, Chrome DevTools  
-**Other Abilities:** Responsive Design, Component Architecture, Performance Optimization, UI/UX Principles
+### **Frontend Development**
+
+⚡ **HTML5** | **CSS3** | **JavaScript (ES6+)** | **React** | **Tailwind CSS** | **Bootstrap**
 
 ---
+
+### **Version Control & Deployment**
+
+🛠 **Git** | **GitHub** | **Netlify**
+
+---
+
+### **Design & Prototyping**
+
+🎨 **Figma** | **Chrome DevTools**
+
+---
+
+### **Core Expertise**
+
+🚀 **Responsive Design** | **Component-Based Architecture** | **Performance Optimization** | **UI/UX Principles**
+
+---
+
+
+
 
 ## 🌱 Currently Learning
 
