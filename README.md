@@ -5,6 +5,7 @@
 ## 👩‍💻 Aradna Nankani
 
 SOFTWARE ENGINEER | FRONTEND DEVELOPER | AI/ML ASPIRANT
+---
 I build **modern, responsive, and visually appealing web applications** using **React, Node.js, Tailwind CSS, and JavaScript**. Currently exploring **AI & Machine Learning** to develop **intelligent, user-focused solutions**.
 
 ---
