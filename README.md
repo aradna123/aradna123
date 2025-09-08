@@ -1,7 +1,4 @@
   
-Here’s your updated **GitHub README** with the **Vincent Van Gogh quote** included in a bold, visually appealing way:
-
----
 
 # 👤 About Me
 
