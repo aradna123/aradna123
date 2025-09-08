@@ -1,78 +1,80 @@
-👤 About Me
+  
+Here’s your updated **GitHub README** with the **Vincent Van Gogh quote** included in a bold, visually appealing way:
 
-👩‍💻 Aradna Nankani
-
-(Software Engineer | Frontend Developer | AI/ML Aspirant)
 ---
-Building modern, responsive, and visually appealing web applications with React, Nodejs, Tailwind CSS, and JavaScript.
-Currently exploring AI and Machine Learning to develop intelligent, user-focused digital solutions.
+
+# 👤 About Me
+
+## 👩‍💻 Aradna Nankani
+
+**Software Engineer | Frontend Developer | AI/ML Aspirant**
+
+I build **modern, responsive, and visually appealing web applications** using **React, Node.js, Tailwind CSS, and JavaScript**. Currently exploring **AI & Machine Learning** to develop **intelligent, user-focused solutions**.
+
+---
 
 ## 🚀 Services I Offer
 
-- **Web Development:** Build responsive websites and web apps with React, Tailwind CSS, and JavaScript.  
-- **UI/UX Design Implementation:** Transform designs into interactive and visually appealing web interfaces.  
-- **Portfolio & Personal Websites:** Craft professional personal websites or portfolio pages.  
-- **Project Optimization & Deployment:** Ensure fast-loading, maintainable websites deployed with best practices.
+* **Web Development:** Responsive websites & web apps with React, Tailwind CSS, and JavaScript
+* **UI/UX Design Implementation:** Converting designs into interactive interfaces
+* **Portfolio & Personal Websites:** Professional personal/portfolio websites
+* **Project Optimization & Deployment:** Fast, maintainable, and deployed with best practices
 
 ---
 
-## 💻 **Technical Skills**
+## 💻 Technical Skills
 
 ### **Frontend Development**
 
-⚡ **HTML5** | **CSS3** | **JavaScript (ES6+)** | **React** | **Tailwind CSS** | **Bootstrap**
-
----
+⚡ HTML5 | CSS3 | JavaScript (ES6+) | React | Tailwind CSS | Bootstrap
 
 ### **Version Control & Deployment**
 
-🛠 **Git** | **GitHub** | **Netlify**
-
----
+🛠 Git | GitHub | Netlify
 
 ### **Design & Prototyping**
 
-🎨 **Figma** | **Chrome DevTools**
-
----
+🎨 Figma | Chrome DevTools
 
 ### **Core Expertise**
 
-🚀 **Responsive Design** | **Component-Based Architecture** | **Performance Optimization** | **UI/UX Principles**
+🚀 Responsive Design | Component-Based Architecture | Performance Optimization | UI/UX Principles
 
 ---
-
-
-
 
 ## 🌱 Currently Learning
 
-- Next.js  
-- Advanced React Patterns & State Management
-- Building AI-powered web features to enhance user experience  
----
-
- # 🏆 Certifications
-
-* **Software Architecture** – *Simplilearn, Jan 2025*
-  [https://www.simplilearn.com/software-architecture-fundamentals-skillup](#)
-
-* **IT INDUSTRY READINESS Program(Mern Stack** – *SukkurIBA, 2024*
-  [https://verifybootcamp.netlify.app/certificate/4510249262968](#)
-
-* **Agile Project Mangement** – *Coursera, 2024*
-  [https://www.coursera.org/learn/agile-project-management/home/module/1](#)
+* Next.js
+* Advanced React Patterns & State Management
+* AI-Powered Web Features
 
 ---
 
-📫 Let’s Connect
+## 🏆 Certifications
 
-📧 Email: aronankani328@gmail.com
+* **Software Architecture – Simplilearn, Jan 2025**
+  [View Certificate](https://www.simplilearn.com/software-architecture-fundamentals-skillup)
+* **IT Industry Readiness Program (MERN Stack) – Sukkur IBA, 2024**
+  [Verify Certificate](https://verifybootcamp.netlify.app/certificate/4510249262968)
+* **Agile Project Management – Coursera, 2024**
+  [View Certificate](https://www.coursera.org/learn/agile-project-management/home/module/1)
 
-💼 LinkedIn: linkedin.com/in/aradhna-nankani328
+---
+
+## 📫 Let’s Connect
+
+📧 **Email:** [aronankani328@gmail.com](mailto:aronankani328@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/aradhna-nankani328](https://linkedin.com/in/aradhna-nankani328)
+
+---
 
 
-"Stay hungry, stay foolish." – Steve Jobs
+> *"Great things are not done by impulse, but by a series of small things brought together."*
+> – **Vincent Van Gogh**
+
+---
+
+
 
 
 
