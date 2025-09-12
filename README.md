@@ -5,7 +5,7 @@
 
 **Software Engineer | Frontend Developer | AI/ML Enthusiast**  
 
-I build responsive, user-friendly web applications with React, Node.js, Tailwind CSS, and JavaScript. Currently, I’m exploring AI and Machine Learning to create smart, efficient solutions that deliver meaningful user experiences.
+I build responsive, user-friendly web applications using React, Node.js, Tailwind CSS, and JavaScript. Currently, I am exploring AI and Machine Learning to develop smart and efficient solutions that create meaningful user experiences.
 ---
 
 ## 🚀 Services  
