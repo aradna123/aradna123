@@ -1,11 +1,13 @@
  
+
 # 👤 About Me  
 
 ## 👩‍💻 Aradna Nankani  
 
 **Software Engineer | Frontend Developer | AI/ML Enthusiast**  
 
-I build responsive, user-friendly web applications using React, Node.js, Tailwind CSS, and JavaScript. Currently, I am exploring AI and Machine Learning to develop smart and efficient solutions that create meaningful user experiences.
+I create modern, responsive, and visually appealing web applications using **React**, **Node.js**, **Tailwind CSS**, and **JavaScript**.  My goal is to combine  frontend development skills with AI tools to deliver intelligent, user-focused solutions.  
+
 ---
 
 ## 🚀 Services  
@@ -61,6 +63,3 @@ Responsive Design | Component-Based Architecture | Performance Optimization | UI
 
 > *"Great things are not done by impulse, but by a series of small things brought together."*  
 > – **Vincent Van Gogh**
- 
-
-
