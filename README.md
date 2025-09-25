@@ -4,7 +4,7 @@
 
 ## 👩‍💻 Aradna Nankani  
 
-**Software Engineer | Frontend Developer | AI/ML Enthusiast**  
+** Frontend Developer | JavaScript Expert | AI/ML Enthusiast**  
 
 I create modern, responsive, and visually appealing web applications using **React**, **Node.js**, **Tailwind CSS**, and **JavaScript**.  My goal is to combine  frontend development skills with AI tools to deliver intelligent, user-focused solutions.  
 
