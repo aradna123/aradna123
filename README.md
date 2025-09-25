@@ -36,8 +36,7 @@ Responsive Design | Component-Based Architecture | Performance Optimization | UI
 ---
 
 ## 🌱 Currently Learning  
-
-- Next.js and server-side rendering  
+ 
 - Advanced React patterns and state management  
 - AI-driven features for modern web applications  
 
